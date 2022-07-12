@@ -1,7 +1,7 @@
 This is for learning zipping Python files.
 
 Python Collections Module
-https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/12-Advanced%20Python%20Modules/00-Collections-Module.ipynb
+git
 
 Python Datetime Module
 https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/12-Advanced%20Python%20Modules/02-Datetime-Module.ipynb
